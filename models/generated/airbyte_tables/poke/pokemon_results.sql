@@ -5,7 +5,7 @@
                         set scd_table_relation = adapter.get_relation(
                             database=this.database,
                             schema=this.schema,
-                            identifier='pokemon_held_items_version_details_scd'
+                            identifier='pokemon_results_scd'
                         )
                     %}
                     {%
@@ -19,16 +19,16 @@
     tags = [ "nested" ]
 ) }}
 -- Final base SQL model
--- depends_on: {{ ref('pokemon_held_items_version_details_ab3') }}
+-- depends_on: {{ ref('pokemon_results_ab3') }}
 select
-    _airbyte_held_items_hashid,
-    rarity,
-    version,
+    _airbyte_pokemon_hashid,
+    url,
+    {{ adapter.quote('name') }},
     _airbyte_ab_id,
     _airbyte_emitted_at,
     {{ current_timestamp() }} as _airbyte_normalized_at,
-    _airbyte_version_details_hashid
-from {{ ref('pokemon_held_items_version_details_ab3') }}
--- version_details at pokemon/held_items/version_details from {{ ref('pokemon_held_items') }}
+    _airbyte_results_hashid
+from {{ ref('pokemon_results_ab3') }}
+-- results at pokemon/results from {{ ref('pokemon') }}
 where 1 = 1
 

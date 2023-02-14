@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b345cbd-ff66-47a3-8d04-435c23784422" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/dbt_project.yml" beforeDir="false" afterPath="$PROJECT_DIR$/dbt_project.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/destination_catalog.json" beforeDir="false" afterPath="$PROJECT_DIR$/destination_catalog.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/dbt.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_ab1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_ab1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_ab2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_ab2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_ab3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_ab3.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_abilities_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_abilities_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_abilities_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_abilities_ability_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_abilities_ability_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_abilities_ability_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_forms_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_forms_ab2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_results_ab2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_forms_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_game_indices_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_game_indices_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_game_indices_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_game_indices_version_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_game_indices_version_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_game_indices_version_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_held_items_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_held_items_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_held_items_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_held_items_item_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_held_items_item_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_held_items_item_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_held_items_ve_4n_details_version_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_held_items_ve_4n_details_version_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_held_items_ve_4n_details_version_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_held_items_version_details_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_held_items_version_details_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_held_items_version_details_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_move_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_move_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_move_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_version_4ils_version_group_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_version_4ils_version_group_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_version_4ils_version_group_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_version_4move_learn_method_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_version_4move_learn_method_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_version_4move_learn_method_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_version_group_details_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_version_group_details_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_moves_version_group_details_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_species_ab1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_results_ab1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_species_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_species_ab3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_results_ab3.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_sprites_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_sprites_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_sprites_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_stats_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_stats_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_stats_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_stats_stat_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_stats_stat_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_stats_stat_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_types_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_types_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_types_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_types_type_ab1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_types_type_ab2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_ctes/poke/pokemon_types_type_ab3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon.sql" beforeDir="false" afterPath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_abilities.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_abilities_ability.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_forms.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_game_indices.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_game_indices_version.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_held_items.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_held_items_item.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_held_items_version_details.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_held_items_version_details_version.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_moves.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_moves_move.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_moves_version__details_version_group.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_moves_version__ils_move_learn_method.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_moves_version_group_details.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_species.sql" beforeDir="false" afterPath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_results.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_sprites.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_stats.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_stats_stat.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_types.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/generated/airbyte_tables/poke/pokemon_types_type.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lj8w3QWBVBm6DymJj1ETOf5Uh4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bevis_lin/mygithub/dbt-poke&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b345cbd-ff66-47a3-8d04-435c23784422" name="Changes" comment="" />
+      <created>1676373366499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676373366499</updated>
+    </task>
+    <servers />
+  </component>
+</project>
